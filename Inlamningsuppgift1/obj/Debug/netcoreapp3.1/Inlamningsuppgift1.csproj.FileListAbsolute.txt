@@ -1,0 +1,13 @@
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\bin\Debug\netcoreapp3.1\Inlamningsuppgift1.exe
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\bin\Debug\netcoreapp3.1\Inlamningsuppgift1.deps.json
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\bin\Debug\netcoreapp3.1\Inlamningsuppgift1.runtimeconfig.json
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\bin\Debug\netcoreapp3.1\Inlamningsuppgift1.runtimeconfig.dev.json
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\bin\Debug\netcoreapp3.1\Inlamningsuppgift1.dll
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\bin\Debug\netcoreapp3.1\Inlamningsuppgift1.pdb
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\obj\Debug\netcoreapp3.1\Inlamningsuppgift1.csprojAssemblyReference.cache
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\obj\Debug\netcoreapp3.1\Inlamningsuppgift1.csproj.CoreCompileInputs.cache
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\obj\Debug\netcoreapp3.1\Inlamningsuppgift1.AssemblyInfoInputs.cache
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\obj\Debug\netcoreapp3.1\Inlamningsuppgift1.AssemblyInfo.cs
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\obj\Debug\netcoreapp3.1\Inlamningsuppgift1.dll
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\obj\Debug\netcoreapp3.1\Inlamningsuppgift1.pdb
+C:\Users\m_shu\OneDrive\Skrivbord\Campus Mölndal\Objektorienterad programmering i C#\Inlamningsuppgift1\Inlamningsuppgift1\obj\Debug\netcoreapp3.1\Inlamningsuppgift1.genruntimeconfig.cache
