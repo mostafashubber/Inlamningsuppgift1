@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m_shu\\OneDrive\\Skrivbord\\Campus Mölndal\\Objektorienterad programmering i C#\\Inlamningsuppgift1\\Inlamningsuppgift1\\Inlamningsuppgift1.csproj": {}
+    "C:\\Inlamningsuppgift1\\Inlamningsuppgift1\\Inlamningsuppgift1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m_shu\\OneDrive\\Skrivbord\\Campus Mölndal\\Objektorienterad programmering i C#\\Inlamningsuppgift1\\Inlamningsuppgift1\\Inlamningsuppgift1.csproj": {
+    "C:\\Inlamningsuppgift1\\Inlamningsuppgift1\\Inlamningsuppgift1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m_shu\\OneDrive\\Skrivbord\\Campus Mölndal\\Objektorienterad programmering i C#\\Inlamningsuppgift1\\Inlamningsuppgift1\\Inlamningsuppgift1.csproj",
+        "projectUniqueName": "C:\\Inlamningsuppgift1\\Inlamningsuppgift1\\Inlamningsuppgift1.csproj",
         "projectName": "Inlamningsuppgift1",
-        "projectPath": "C:\\Users\\m_shu\\OneDrive\\Skrivbord\\Campus Mölndal\\Objektorienterad programmering i C#\\Inlamningsuppgift1\\Inlamningsuppgift1\\Inlamningsuppgift1.csproj",
+        "projectPath": "C:\\Inlamningsuppgift1\\Inlamningsuppgift1\\Inlamningsuppgift1.csproj",
         "packagesPath": "C:\\Users\\m_shu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m_shu\\OneDrive\\Skrivbord\\Campus Mölndal\\Objektorienterad programmering i C#\\Inlamningsuppgift1\\Inlamningsuppgift1\\obj\\",
+        "outputPath": "C:\\Inlamningsuppgift1\\Inlamningsuppgift1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
